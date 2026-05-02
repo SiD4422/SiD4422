@@ -69,7 +69,7 @@
 ### ⚡ [Smart Energy Intelligence Platform](https://github.com/SiD4422) — ESP32 + PZEM-004T + IoT
 Real-time AC power monitoring — voltage, current, power factor, energy. Processes **10,000+ data points/session** at **0.02% margin of error**.
 
-### 🔗 [Gateonix — Logic Gate Simulator](https://s-systems-portfolio.vercel.app) — React.js [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://s-systems-portfolio.vercel.app)
+### 🔗 [Gateonix — Logic Gate Simulator](https://s-systems-portfolio.vercel.app) — React.js [![Live](https://img.shields.io/badge/Live-00C851?style=flat-square&logo=vercel&logoColor=white)](https://dld.srmist.edu.in/gateonix/index.html)
 50+ gate configs, sub-50ms latency. **Officially hosted by SRMIST** (`dld.srmist.edu.in`) — **10,000+ active users**.
 
 ### 👁️ [Smart Attendance — Anti-Spoofing](https://github.com/SiD4422) — Python + OpenCV + SQLite
